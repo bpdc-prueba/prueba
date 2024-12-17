@@ -1,0 +1,11 @@
+site_name: "prueba"
+site_description: "prueba"
+
+nav:
+  - Introduction: index.md
+  - API Reference:
+    - Overview: api.md
+    - Endpoints: endpoints.md
+
+plugins:
+  - techdocs-core
